@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midterm Lab Task # 1. Resume</title>
+</head>
+<body>
+
+    
+
+    <img src="storage/emulated/0/html/img" alt="Avatar" style="width:210px; height:200px;">
+    <h2>Manansala, Sean Nathaniel S.</h2>
+         <b>Email:</b><a target="_blank" href="www.google.com">seanmanansala18@gmail.com</a><br>
+         <b>Phone:</b> 09694749484<br>
+         <b>Adress:</b> San Isidro, Concepcion, Tarlac
+         <br>
+         <b>Linkedln:</b> https://www.facebook.com/share/1BRSHFYs7p//<br>
+         </p>
+         <hr>
+         <h2>CAREER OBJECTIVES</h2>
+         <p>
+            To expand my expertise in information technology, engage in meaningful projects, and continuously learn and grow in the field.
+
+
+         </p>
+         <hr>
+         <h2>EXPERTISE BIO</h2>
+         <p>
+          I am committed to learning and leveraging new technologies, with expertise in coding, system debugging, and efficient problem resolution.
+         </p>
+         <hr>
+         <h2>EDUCATION</h2>
+         <ul>
+                 <li>BSIT, Undergraduate, Pampanga State Agricultural University, 1st Year</li>
+                 <li>HUMSS, Anastacio G. Yumul High School, Graduated, Year 2022-2024</li>
+                 <li>Anastacio G. Yumul High School, Graduated Year 2022</li>
+                 <li>Concepcion Catholic School, Graduated Year 2018</li>
+         </ul>
+         <hr>
+         <h2>Work Experience or Seminars and Workshop Attended</h2>
+         <p>
+                   BNS, Work Immersion Student, Experience on ttade, 2022-2023
+               <li>Inputing customers information</li>
+               <li>Trading some stuff</li>
+               <li>Buy a cheap one thing then sell it to a good price</li>            
+               
+                
+         </p>
+         <hr>
+         <h2>HARDWARE SKILLS</h2>
+         <ul>
+                <li>Pc assembly and disassembly.</li>
+                <li>Hardware troubleshooting and repair.</li>
+                <li>Printing and Xerox.</li>
+         </ul>
+         <hr>
+         <h2>SOFTWARE SKILLS</h2>
+         <ul>
+                <li>Setting up antivirus software, configuring browsers.</li>
+                <li>Basic knowledge of programming and development.</li>
+         </ul>
+         <hr>
+         <h2>ADDITIONAL SKILLS</h2>
+         <ul>     
+                <li>Teamwork and cross-functional collaboration
+</li>
+                <li>Decision making under pressure</li>
+         </ul>
+         <hr>
+         <h2>CHARACTER REFFERENCE</h2>
+         <table border="2" width="100%" cellpadding="10%" cellspacing="11%px">
+         <tbody>
+                <tr>
+                        <th>FULL NAME</th>
+                        <th>DESIGNATION</th>
+                        <th>EMAIL</th>
+                        <th>CONTACT NUMBER</th>
+                </tr>
+                <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>
+                <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>       
+                <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>
+                <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                </tr>      
+
+    </body>
+</html>
