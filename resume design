@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midterm Lab Task #1 - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 900px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        img {
+            border-radius: 50%;
+            display: block;
+            margin: auto;
+        }
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        table, th, td {
+            border: 1px solid #3498db;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ddd;
+            margin: 20px 0;
+        }
+        .contact-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-info b {
+            display: inline-block;
+            width: 70px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <img src="storage/emulated/0/html/img" alt="Avatar" style="width:150px; height:150px;">
+    <h2 style="text-align:center;">Manansala, Sean Nathaniel S.</h2>
+
+    <div class="contact-info">
+        <p><b>Email:</b> <a href="mailto:seanmanansala18@gmail.com">seanmanansala18@gmail.com</a></p>
+        <p><b>Phone:</b> 09694749484</p>
+        <p><b>Address:</b> San Isidro, Concepcion, Tarlac</p>
+        <p><b>LinkedIn:</b> <a href="https://www.facebook.com/share/1BRSHFYs7p/">https://www.facebook.com/share/1BRSHFYs7p/</a></p>
+    </div>
+
+    <hr>
+
+    <h2>Career Objectives</h2>
+    <p>To expand my expertise in information technology, engage in meaningful projects, and continuously learn and grow in the field.</p>
+
+    <h2>Expertise Bio</h2>
+    <p>I am committed to learning and leveraging new technologies, with expertise in coding, system debugging, and efficient problem resolution.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>BSIT, Undergraduate, Pampanga State Agricultural University, 1st Year</li>
+        <li>HUMSS, Anastacio G. Yumul High School, Graduated, Year 2022-2024</li>
+        <li>Anastacio G. Yumul High School, Graduated Year 2022</li>
+        <li>Concepcion Catholic School, Graduated Year 2018</li>
+    </ul>
+
+    <h2>Work Experience / Seminars and Workshops Attended</h2>
+    <p><b>BNS, Work Immersion Student (2022-2023)</b></p>
+    <ul>
+        <li>Inputting customer information</li>
+        <li>Trading various items</li>
+        <li>Buying items at a low price and selling at a good margin</li>
+    </ul>
+
+    <h2>Hardware Skills</h2>
+    <ul>
+        <li>PC assembly and disassembly</li>
+        <li>Hardware troubleshooting and repair</li>
+        <li>Printing and photocopying (Xerox)</li>
+    </ul>
+
+    <h2>Software Skills</h2>
+    <ul>
+        <li>Setting up antivirus software and configuring browsers</li>
+        <li>Basic knowledge of programming and development</li>
+    </ul>
+
+    <h2>Additional Skills</h2>
+    <ul>
+        <li>Teamwork and cross-functional collaboration</li>
+        <li>Decision making under pressure</li>
+    </ul>
+
+    <h2>Character References</h2>
+    <table>
+        <tr>
+            <th>Full Name</th>
+            <th>Designation</th>
+            <th>Email</th>
+            <th>Contact Number</th>
+        </tr>
+        <tr><td></td><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td><td></td></tr>
+    </table>
+</div>
+
+</body>
+</html>
